@@ -1,0 +1,7 @@
+{
+	"/": [],
+	"/api/scan": [
+		"src/routes/api/scan/+server.ts"
+	],
+	"/scan/[tool]": []
+}
